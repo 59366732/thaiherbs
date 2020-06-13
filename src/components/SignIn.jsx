@@ -1,9 +1,8 @@
 // @ts-nocheck
 import React, { useState } from "react";
-// @ts-ignore
 import { Link } from "@reach/router";
-// @ts-ignore
-import { auth, signInWithGoogle } from "../firebase/firebase";
+import { auth } from "../firebase/firebase";
+//import {signInWithGoogle} from "../firebase/firebase"
 import Container from "@material-ui/core/Container";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Typography from "@material-ui/core/Typography";
@@ -69,14 +68,17 @@ const SignIn = () => {
     signInOptions: [
       firebase.auth.GoogleAuthProvider.PROVIDER_ID,
       firebase.auth.FacebookAuthProvider.PROVIDER_ID,
-      firebase.auth.GithubAuthProvider.PROVIDER_ID,
+      firebase.auth.TwitterAuthProvider.PROVIDER_ID,
       firebase.auth.EmailAuthProvider.PROVIDER_ID,
+      firebase.auth.YahooAuthProvider.PROVIDER_ID,
+      firebase.auth.MicrosoftAuthProvider.PROVIDER_ID,
     ],
     callbacks: {
       // Avoid redirects after sign-in.
       signInSuccess: () => false,
     },
   };
+
 
   const classes = useStyles();
   return (
@@ -90,6 +92,7 @@ const SignIn = () => {
           <Typography component="h1" variant="h5" align="center">
             Sign in
           </Typography>
+          {error !== null && <div>{error}</div>}
           <form className={classes.form} noValidate>
             <Grid container spacing={2}>
               <Grid item xs={12}>
@@ -100,10 +103,10 @@ const SignIn = () => {
                   fullWidth
                   autoFocus
                   type="text"
-                  name="email"
+                  name="userEmail"
                   value={email}
                   placeholder="Enter your email"
-                  id="email"
+                  id="userEmail"
                   onChange={(event) => onChangeHandler(event)}
                 />
               </Grid>
@@ -115,10 +118,10 @@ const SignIn = () => {
                   fullWidth
                   autoFocus
                   type="text"
-                  name="password"
+                  name="userPassword"
                   value={password}
                   placeholder="Enter your password"
-                  id="password"
+                  id="userPassword"
                   onChange={(event) => onChangeHandler(event)}
                 />
               </Grid>

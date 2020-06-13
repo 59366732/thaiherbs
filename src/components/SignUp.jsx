@@ -53,9 +53,12 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const SignUp = () => {
+  const [firstname, setFirstname] = useState("");
+  const [lastname, setLastname] = useState("");
+  const [displayName, setDisplayName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-  const [displayName, setDisplayName] = useState("");
+  const [confirm, setConfirm] = useState("");
   const [error, setError] = useState(null);
 
   const createUserWithEmailAndPasswordHandler = async (
@@ -81,13 +84,18 @@ const SignUp = () => {
 
   const onChangeHandler = (event) => {
     const { name, value } = event.currentTarget;
-
-    if (name === "userEmail") {
+    if (name === "firstname") {
+      setFirstname(value);
+    } else if (name === "lastname") {
+      setLastname(value);
+    } else if (name === "displayName") {
+      setDisplayName(value);
+    } else if (name === "userEmail") {
       setEmail(value);
     } else if (name === "userPassword") {
       setPassword(value);
-    } else if (name === "displayName") {
-      setDisplayName(value);
+    } else if (name === "confirmPassword") {
+      setConfirm(value);
     }
   };
 
@@ -116,7 +124,7 @@ const SignUp = () => {
                   autoFocus
                   type="text"
                   name="firstname"
-                  value={""}
+                  value={firstname}
                   placeholder="Enter your first name"
                   id="firstname"
                   onChange={(event) => onChangeHandler(event)}
@@ -132,7 +140,7 @@ const SignUp = () => {
                   autoFocus
                   type="text"
                   name="lastname"
-                  value={""}
+                  value={lastname}
                   placeholder="Enter your last name"
                   id="lastname"
                   onChange={(event) => onChangeHandler(event)}
@@ -161,10 +169,10 @@ const SignUp = () => {
                   label="Email"
                   autoFocus
                   type="text"
-                  name="email"
+                  name="userEmail"
                   value={email}
                   placeholder="example@email.com"
-                  id="email"
+                  id="userEmail"
                   onChange={(event) => onChangeHandler(event)}
                 />
               </Grid>
@@ -176,10 +184,10 @@ const SignUp = () => {
                   label="Password"
                   autoFocus
                   type="text"
-                  name="password"
+                  name="userPassword"
                   value={password}
                   placeholder="Enter your password"
-                  id="password"
+                  id="userPassword"
                   onChange={(event) => onChangeHandler(event)}
                 />
               </Grid>
@@ -192,7 +200,7 @@ const SignUp = () => {
                   autoFocus
                   type="text"
                   name="confirmPassword"
-                  value={password}
+                  value={confirm}
                   placeholder="Enter your password again"
                   id="confirmPassword"
                   onChange={(event) => onChangeHandler(event)}
