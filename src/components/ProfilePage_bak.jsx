@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useContext,useState } from "react";
 import { navigate } from "@reach/router"; 
 import { UserContext } from "../providers/UserProvider";

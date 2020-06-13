@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "@reach/router";
 import { auth } from "../firebase/firebase"; 
+// eslint-disable-next-line no-unused-vars
 import { UserContext } from "../providers/UserProvider";
 
 const PasswordReset = () => {
