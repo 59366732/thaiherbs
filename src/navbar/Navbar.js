@@ -12,7 +12,7 @@ class Navbar extends Component {
     render() {
         return (
             <AppBar>
-                <Toolbar className = 'nav-container'>
+                <Toolbar className = 'navbar-container'>
                 <h3>เว็บชุมชนสมุนไพรไทย</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <Button color= "inherit" component = {Link} to='/'>หน้าแรก</Button>
                     <Button color= "inherit" component = {Link} to='/signup'>ลงทะเบียน</Button>
