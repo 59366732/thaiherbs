@@ -100,7 +100,7 @@ const SignIn = () => {
                   label="Username or Email"
                   fullWidth
                   autoFocus
-                  type="text"
+                  type="mail"
                   name="userEmail"
                   value={email}
                   placeholder="Enter your email"
@@ -115,7 +115,7 @@ const SignIn = () => {
                   label="Password"
                   fullWidth
                   autoFocus
-                  type="text"
+                  type="password"
                   name="userPassword"
                   value={password}
                   placeholder="Enter your password"

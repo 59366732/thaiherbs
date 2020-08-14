@@ -168,7 +168,7 @@ const SignUp = () => {
                   fullWidth
                   label="Email"
                   autoFocus
-                  type="text"
+                  type="email"
                   name="userEmail"
                   value={email}
                   placeholder="example@email.com"
@@ -183,7 +183,7 @@ const SignUp = () => {
                   fullWidth
                   label="Password"
                   autoFocus
-                  type="text"
+                  type="password"
                   name="userPassword"
                   value={password}
                   placeholder="Enter your password"
@@ -198,7 +198,7 @@ const SignUp = () => {
                   fullWidth
                   label="Confirm Password"
                   autoFocus
-                  type="text"
+                  type="password"
                   name="confirmPassword"
                   value={confirm}
                   placeholder="Enter your password again"
