@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // @ts-nocheck
 import React, { useEffect, useState } from "react";
 //import example from "../assets/images_for_qanda_page.png";
