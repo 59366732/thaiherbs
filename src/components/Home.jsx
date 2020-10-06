@@ -210,7 +210,4 @@ const Home = () => {
 	);
 };
 
-Home.propTypes = {};
-
-Home.defaultProps = {};
 export default Home;

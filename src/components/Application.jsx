@@ -1,15 +1,18 @@
 // @ts-nocheck
+/* eslint-disable no-unused-vars */
 import React, { useContext } from "react";
 //import { Router } from "@reach/router";
 import Home from "./Home";
 import SignIn from "./SignIn";
 import SignUp from "./SignUp";
 import Search from "./Search";
-import QandA from "./QandA";
+import QandA from "./QandAvisitors";
 
 import UserProvider from "../providers/UserProvider";
 import { UserContext } from "../providers/UserProvider";
-import ProfilePage from "./ProfilePage";
+import HomeUsers from "./HomeUsers";
+//import ProfilePage from "./ProfilePage";
+
 // eslint-disable-next-line no-unused-vars
 import PasswordReset from "./PasswordReset";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
@@ -27,7 +30,7 @@ const theme = createMuiTheme(themeFile);
 function Application() {
   const user = useContext(UserContext);
   return user ? (
-    <ProfilePage />
+    <HomeUsers />
   ) : (
     <UserProvider>
       <MuiThemeProvider theme={theme}>

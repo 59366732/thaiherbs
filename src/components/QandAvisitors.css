@@ -1,0 +1,2500 @@
+.html {
+	height: 100%;
+	width: 100%;
+}
+
+.body {
+	font-family: "Open Sans", serif;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	-webkit-font-smoothing: antialiased;
+	overflow: -moz-scrollbars-none;
+	-ms-overflow-style: none;
+}
+
+.qandaforvisitors {
+	display: block;
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow-x: auto;
+	overflow-y: auto;
+	background-color: rgba(255, 255, 255, 1);
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+
+.qandaforvisitors .createQuestion {
+	display: block;
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow-x: unset;
+	overflow-y: unset;
+	background-color: transparent;
+	width: 153px;
+	height: 43px;
+	left: 1511px;
+	top: 1019px;
+}
+
+.qandaforvisitors .createQuestion .createQButton {
+	position: absolute;
+	box-sizing: border-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(105, 228, 76, 1);
+	border-bottom-color: rgba(112, 112, 112, 1);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: rgba(112, 112, 112, 1);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: rgba(112, 112, 112, 1);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: rgba(112, 112, 112, 1);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-left-radius: 22px;
+	border-top-right-radius: 22px;
+	border-bottom-left-radius: 22px;
+	border-bottom-right-radius: 22px;
+	box-shadow: none;
+	width: 153px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+
+.qandaforvisitors .createQuestion .xf2410954 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(77, 77, 77, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 28px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 126px;
+	height: 37px;
+	left: 14px;
+	top: 0px;
+}
+
+.qandaforvisitors .page {
+	display: block;
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow-x: unset;
+	overflow-y: unset;
+	background-color: transparent;
+	width: 100px;
+	height: 42px;
+	left: 910px;
+	top: 1020px;
+}
+
+.qandaforvisitors .page .page02 {
+	position: absolute;
+	box-sizing: border-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 1);
+	border-bottom-color: rgba(112, 112, 112, 1);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: rgba(112, 112, 112, 1);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: rgba(112, 112, 112, 1);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: rgba(112, 112, 112, 1);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	box-shadow: none;
+	width: 42px;
+	height: 42px;
+	left: 58px;
+	top: 0px;
+}
+
+.qandaforvisitors .page .x2 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 16px;
+	height: 38px;
+	left: 71px;
+	top: 0px;
+}
+
+.qandaforvisitors .page .page01 {
+	position: absolute;
+	box-sizing: border-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 1);
+	border-bottom-color: rgba(112, 112, 112, 1);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: rgba(112, 112, 112, 1);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: rgba(112, 112, 112, 1);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: rgba(112, 112, 112, 1);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	box-shadow: none;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+
+.qandaforvisitors .page .x1413fefbc {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(6, 6, 6, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 16px;
+	height: 38px;
+	left: 13px;
+	top: 0px;
+}
+
+.qandaforvisitors .line5 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	stroke: rgba(112, 112, 112, 1);
+	stroke-width: 1px;
+	stroke-linecap: butt;
+	box-shadow: none;
+	width: 1406px;
+	height: 1px;
+	left: 257.5px;
+	top: 1002px;
+}
+
+.qandaforvisitors .quesionT {
+	display: block;
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow-x: unset;
+	overflow-y: unset;
+	background-color: transparent;
+	width: 1389px;
+	height: 137px;
+	left: 280px;
+	top: 844px;
+}
+
+.qandaforvisitors .quesionT .xf3048a42 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 58px;
+	height: 76px;
+	left: 0px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionT .xf3048a42 .xf3048a42-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .xf3048a42 .xf3048a42-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .x21c87958 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 48px;
+	height: 76px;
+	left: 89px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionT .x21c87958 .x21c87958-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .x21c87958 .x21c87958-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .x03dbcf75 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 16px;
+	height: 76px;
+	left: 189px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionT .x03dbcf75 .x03dbcf75-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .x03dbcf75 .x03dbcf75-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .x12bcfb796 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	width: 1088px;
+	height: 84px;
+	left: 300px;
+	top: 0px;
+}
+
+.qandaforvisitors .quesionT .detailLog302d5f11 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	width: 1089px;
+	height: 42px;
+	left: 300px;
+	top: 95px;
+}
+
+.qandaforvisitors .quesionT .detailLog302d5f11 .detailLog302d5f11-0 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .detailLog302d5f11 .detailLog302d5f11-9 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .detailLog302d5f11 .detailLog302d5f11-18 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .detailLog302d5f11 .detailLog302d5f11-31 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .detailLog302d5f11 .detailLog302d5f11-42 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .detailLog302d5f11 .detailLog302d5f11-76 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionT .detailLog302d5f11 .detailLog302d5f11-79 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .line4 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	stroke: rgba(112, 112, 112, 1);
+	stroke-width: 1px;
+	stroke-linecap: butt;
+	box-shadow: none;
+	width: 1406px;
+	height: 1px;
+	left: 257.5px;
+	top: 816px;
+}
+
+.qandaforvisitors .quesionZ {
+	display: block;
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow-x: unset;
+	overflow-y: unset;
+	background-color: transparent;
+	width: 1389px;
+	height: 137px;
+	left: 280px;
+	top: 658px;
+}
+
+.qandaforvisitors .quesionZ .xa2a5632e {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 58px;
+	height: 76px;
+	left: 0px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionZ .xa2a5632e .xa2a5632e-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .xa2a5632e .xa2a5632e-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .xbc66c56e {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 48px;
+	height: 76px;
+	left: 89px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionZ .xbc66c56e .xbc66c56e-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .xbc66c56e .xbc66c56e-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .x8b790f00 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 16px;
+	height: 76px;
+	left: 189px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionZ .x8b790f00 .x8b790f00-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .x8b790f00 .x8b790f00-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .x10f10dee2 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	width: 1088px;
+	height: 84px;
+	left: 300px;
+	top: 0px;
+}
+
+.qandaforvisitors .quesionZ .detailLoge6b48472 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	width: 1089px;
+	height: 42px;
+	left: 300px;
+	top: 95px;
+}
+
+.qandaforvisitors .quesionZ .detailLoge6b48472 .detailLoge6b48472-0 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .detailLoge6b48472 .detailLoge6b48472-9 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .detailLoge6b48472 .detailLoge6b48472-19 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .detailLoge6b48472 .detailLoge6b48472-30 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .detailLoge6b48472 .detailLoge6b48472-41 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .detailLoge6b48472 .detailLoge6b48472-76 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionZ .detailLoge6b48472 .detailLoge6b48472-79 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .line3 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	stroke: rgba(112, 112, 112, 1);
+	stroke-width: 1px;
+	stroke-linecap: butt;
+	box-shadow: none;
+	width: 1406px;
+	height: 1px;
+	left: 257.5px;
+	top: 629px;
+}
+
+.qandaforvisitors .quesionY {
+	display: block;
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow-x: unset;
+	overflow-y: unset;
+	background-color: transparent;
+	width: 1389px;
+	height: 137px;
+	left: 280px;
+	top: 471px;
+}
+
+.qandaforvisitors .quesionY .x780363e4 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 58px;
+	height: 76px;
+	left: 0px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionY .x780363e4 .x780363e4-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .x780363e4 .x780363e4-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .xaf624313 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 48px;
+	height: 76px;
+	left: 89px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionY .xaf624313 .xaf624313-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .xaf624313 .xaf624313-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .xd88c504c {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 16px;
+	height: 76px;
+	left: 189px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionY .xd88c504c .xd88c504c-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .xd88c504c .xd88c504c-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .x1d6690666 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	width: 1088px;
+	height: 84px;
+	left: 300px;
+	top: 0px;
+}
+
+.qandaforvisitors .quesionY .detailLogae20c593 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	width: 1089px;
+	height: 42px;
+	left: 300px;
+	top: 95px;
+}
+
+.qandaforvisitors .quesionY .detailLogae20c593 .detailLogae20c593-0 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .detailLogae20c593 .detailLogae20c593-9 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .detailLogae20c593 .detailLogae20c593-18 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .detailLogae20c593 .detailLogae20c593-30 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .detailLogae20c593 .detailLogae20c593-41 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .detailLogae20c593 .detailLogae20c593-76 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionY .detailLogae20c593 .detailLogae20c593-79 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .line2 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	stroke: rgba(112, 112, 112, 1);
+	stroke-width: 1px;
+	stroke-linecap: butt;
+	box-shadow: none;
+	width: 1406px;
+	height: 1px;
+	left: 257.5px;
+	top: 449px;
+}
+
+.qandaforvisitors .quesionX {
+	display: block;
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow-x: unset;
+	overflow-y: unset;
+	background-color: transparent;
+	width: 1389px;
+	height: 137px;
+	left: 280px;
+	top: 299px;
+}
+
+.qandaforvisitors .quesionX .x37c4f76b {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 58px;
+	height: 76px;
+	left: 0px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionX .x37c4f76b .x37c4f76b-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .x37c4f76b .x37c4f76b-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .x889401a7 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 48px;
+	height: 76px;
+	left: 89px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionX .x889401a7 .x889401a7-0 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .x889401a7 .x889401a7-2 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .xbccfad74 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: center;
+	letter-spacing: 0px;
+	color: rgba(73, 155, 238, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 16px;
+	height: 76px;
+	left: 189px;
+	top: 28px;
+}
+
+.qandaforvisitors .quesionX .x1 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	width: 1088px;
+	height: 84px;
+	left: 300px;
+	top: 0px;
+}
+
+.qandaforvisitors .quesionX .detailLog {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	width: 1089px;
+	height: 42px;
+	left: 300px;
+	top: 95px;
+}
+
+.qandaforvisitors .quesionX .detailLog .detailLog-0 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .detailLog .detailLog-9 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .detailLog .detailLog-15 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .detailLog .detailLog-27 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .detailLog .detailLog-38 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .detailLog .detailLog-73 {
+	color: rgba(73, 155, 238, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .quesionX .detailLog .detailLog-76 {
+	color: rgba(112, 112, 112, 1);
+	font-weight: 400;
+	font-style: normal;
+	font-size: 29px;
+	font-family: "Segoe UI", Arial;
+	letter-spacing: 0;
+	text-decoration: none;
+}
+
+.qandaforvisitors .line1 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	stroke: rgba(112, 112, 112, 1);
+	stroke-width: 1px;
+	stroke-linecap: butt;
+	box-shadow: none;
+	width: 1406px;
+	height: 1px;
+	left: 257.5px;
+	top: 277px;
+}
+
+.qandaforvisitors .serachModule {
+	display: block;
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow-x: unset;
+	overflow-y: unset;
+	background-color: transparent;
+	width: 805px;
+	height: 65px;
+	left: 863px;
+	top: 152px;
+}
+
+.qandaforvisitors .serachModule .searchBox {
+	position: absolute;
+	box-sizing: border-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 1);
+	border-bottom-color: rgba(112, 112, 112, 1);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: rgba(112, 112, 112, 1);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: rgba(112, 112, 112, 1);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: rgba(112, 112, 112, 1);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	box-shadow: none;
+	width: 366px;
+	height: 65px;
+	left: 329px;
+	top: 0px;
+}
+
+.qandaforvisitors .serachModule .search {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 0.30000001192092896;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(0, 0, 0, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 24px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	width: 272px;
+	height: 33px;
+	left: 344px;
+	top: 16px;
+}
+
+.qandaforvisitors .serachModule .searchButton {
+	position: absolute;
+	box-sizing: border-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(105, 228, 76, 1);
+	border-bottom-color: rgba(112, 112, 112, 1);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: rgba(112, 112, 112, 1);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: rgba(112, 112, 112, 1);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: rgba(112, 112, 112, 1);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-left-radius: 33px;
+	border-top-right-radius: 33px;
+	border-bottom-left-radius: 33px;
+	border-bottom-right-radius: 33px;
+	box-shadow: none;
+	width: 101px;
+	height: 65px;
+	left: 704px;
+	top: 0px;
+}
+
+.qandaforvisitors .serachModule .xa3d74615 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 31px;
+	font-weight: 700;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 79px;
+	height: 41px;
+	left: 715px;
+	top: 8px;
+}
+
+.qandaforvisitors .serachModule .x727fcd2b {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 305px;
+	height: 38px;
+	left: 0px;
+	top: 14px;
+}
+
+.qandaforvisitors .x36dcaeed {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(0, 0, 0, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 137px;
+	height: 38px;
+	left: 584px;
+	top: 166px;
+}
+
+.qandaforvisitors .x5bc713fe {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 29px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 172px;
+	height: 38px;
+	left: 270px;
+	top: 166px;
+}
+
+.qandaforvisitors .menuBar {
+	display: block;
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+    transform-origin: center;
+	/* background-image: url(""); */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow-x: unset;
+	overflow-y: unset;
+	background-color: transparent;
+	width: 1920px;
+	height: 79px;
+	left: 0px;
+	top: 0px;
+}
+
+.qandaforvisitors .menuBar .narbar {
+	position: absolute;
+	box-sizing: border-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(105, 228, 76, 1);
+	border-bottom-color: rgba(112, 112, 112, 1);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: rgba(112, 112, 112, 1);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: rgba(112, 112, 112, 1);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: rgba(112, 112, 112, 1);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	box-shadow: none;
+	width: 1920px;
+	height: 79px;
+	left: 0px;
+	top: 0px;
+}
+
+.qandaforvisitors .menuBar .xcdce04d4 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 54px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 435px;
+	height: 72px;
+	left: 238px;
+	top: 0px;
+}
+
+.qandaforvisitors .menuBar .xfca8377c {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 39px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 130px;
+	height: 52px;
+	left: 725px;
+	top: 10px;
+}
+
+.qandaforvisitors .menuBar .x35ecd98a {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 39px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 149px;
+	height: 52px;
+	left: 905px;
+	top: 10px;
+}
+
+.qandaforvisitors .menuBar .x7cdbe317 {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 39px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 171px;
+	height: 52px;
+	left: 1111px;
+	top: 10px;
+}
+
+.qandaforvisitors .menuBar .x597dfd4f {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 39px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 205px;
+	height: 52px;
+	left: 1340px;
+	top: 10px;
+}
+
+.qandaforvisitors .menuBar .x {
+	position: absolute;
+	box-sizing: content-box;
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-ms-transform-origin: center;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	opacity: 1;
+	cursor: default;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color: rgba(255, 255, 255, 0);
+	text-align: left;
+	letter-spacing: 0px;
+	color: rgba(112, 112, 112, 1);
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+	font-size: 39px;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Segoe UI", Arial;
+	text-decoration: none;
+	box-shadow: none;
+	overflow-x: unset;
+	overflow-y: unset;
+	white-space: pre;
+	width: 143px;
+	height: 52px;
+	left: 1602px;
+	top: 10px;
+}
